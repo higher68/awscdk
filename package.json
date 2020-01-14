@@ -1,0 +1,19 @@
+{
+  "name": "awscdk",
+  "version": "1.0.0",
+  "description": "playground for aws cdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/higher68/awscdk.git"
+  },
+  "author": "higher68",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/higher68/awscdk/issues"
+  },
+  "homepage": "https://github.com/higher68/awscdk#readme"
+}
